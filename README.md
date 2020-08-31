@@ -1,5 +1,8 @@
 # Cricket-Game
  
+Play the Game!
+https://arya200.github.io/cricketgame/
+
 The following is a Cricket Game I made using Unity, for Indian Gaming company Games2Win.
 
 The general overview of the project is as follows:
